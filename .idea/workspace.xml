@@ -5,58 +5,126 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4230cff-0ea6-4cf8-9c96-018326893c03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java SE 8 Fundamentals.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Snippets.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/ArrayListsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/Casting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/ControlFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/Conversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/HandlingExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/PrimitiveVsReferenceTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/RNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/RepetitionControlStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/SelectionControlStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/StringsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/UserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/VariableFun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/Wrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/classes/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/classes/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/classes/BookDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/classes/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/classes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/classes/CircleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/classes/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/classes/OOPDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/classes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/classes/RectangleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/classes/SuperAndThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/enums/Colors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/enums/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/enums/EnumsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/lambda/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/basics/lambda/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/exercises/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/exercises/GuessTheNumberGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/exercises/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/exercises/MadLibs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/exercises/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course_1/exercises/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Theory.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/CountDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/CountUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/GuessTheNumberGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/MadLibs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_10_streams/StreamBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_10_streams/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_11_design_paterns/DBConfigSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_11_design_paterns/ImmutableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_11_design_paterns/SingletonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_15_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_16_initializationBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_19_Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_1_oop/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_1_oop/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_1_oop/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_1_oop/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_1_oop/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_1_oop/Overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_1_oop/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_1_oop/entities/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_1_oop/entities/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_1_oop/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_1_oop/entities/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_1_oop/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_1_oop/entities/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_2_classes/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_2_classes/AnonymousClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_3_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_3_nested_classes/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_3_nested_classes/InitializerBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_3_nested_classes/InnerClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_3_nested_classes/MethodLocalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_3_nested_classes/MultipleClassesInSameFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_3_nested_classes/StaticCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_4_PrimitiveDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_4_interfaces/FunctionalInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_4_interfaces/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_4_interfaces/MarkerInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_5_enums/Choice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_6_generics/GenericsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_6_generics/StoreGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_6_generics/StoreGenericMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_6_generics/StoreGenericNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_6_generics/StoreNonGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_7_lambda_expressions/FunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_7_lambda_expressions/FunctionalInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_7_lambda_expressions/MarkerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_8_collections_framework/ArrayDequeueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_8_collections_framework/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_8_collections_framework/ComparatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_8_collections_framework/DequeueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_8_collections_framework/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_8_collections_framework/LinkedHashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_8_collections_framework/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_8_collections_framework/PriorityQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_8_collections_framework/QueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_8_collections_framework/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_8_collections_framework/maps_and_hash_maps/CollectionAlgorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_8_collections_framework/maps_and_hash_maps/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_8_collections_framework/maps_and_hash_maps/LinkedHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_8_collections_framework/maps_and_hash_maps/TreeMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_9_optionals/OptionalFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_9_optionals/OptionalIfPresent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_9_optionals/OptionalInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_9_optionals/OptionalIsPresent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_9_optionals/OptionalMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/_9_optionals/OptionalOrElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java SE 8 Fundamentals.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_14_AccessModifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_17_ArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/ArrayListsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_18_ArrayListsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_9_Casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/Comments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_1_CommentsAndJavaDocs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/ControlFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_6_ControlFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/Conversions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_10_Conversions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/HandlingExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_20_HandlingExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/PrimitiveVsReferenceTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_5_PrimitiveVsReferenceTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/RNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/RandomNumberGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/Recursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/RepetitionControlStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_8_RepetitionControlStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/SelectionControlStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_7_SelectionControlStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/StringsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_12_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_13_UserInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/VariableFun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_2_Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_11_WrapperClassesAndAutoBoxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/classes/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_1_oop/entities/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/classes/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_1_oop/entities/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/classes/BookDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_2_classes/BookDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/classes/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_1_oop/entities/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/classes/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_1_oop/entities/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/classes/CircleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_2_classes/CircleDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/classes/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/classes/OOPDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_2_classes/OOPDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/classes/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_1_oop/entities/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/classes/RectangleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_2_classes/RectangleDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/classes/SuperAndThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_2_classes/SuperAndThis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/enums/Colors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_5_enums/Colors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/enums/DayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_5_enums/DayOfWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/enums/EnumsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_5_enums/EnumsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/lambda/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_7_lambda_expressions/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/basics/lambda/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/_7_lambda_expressions/CalculatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/exercises/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/exercises/GuessTheNumberGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/exercises/Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/exercises/MadLibs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/exercises/PrimeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course_1/exercises/Recursion.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,33 +154,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/goran/Desktop/New Folder/Java/src",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/goran/Desktop/New Folder/Java/src/exercises&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/exercises" />
+      <recent name="$PROJECT_DIR$/src/lessons" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/basics/OOP" />
       <recent name="$PROJECT_DIR$/src/basics" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/course_2/exercises/proj_1" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="course_1.basics.lambda" />
+      <recent name="lessons" />
+      <recent name="lessons.OOP" />
       <recent name="basics" />
       <recent name="basics.OOP" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Casting">
-    <configuration name="BookDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="course_1.basics.classes.BookDemo" />
+  <component name="RunManager" selected="Application.CollectionAlgorithms">
+    <configuration name="ArrayDequeueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons._8_collections_framework.ArrayDequeueDemo" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="course_1.basics.classes.*" />
+          <option name="PATTERN" value="lessons._8_collections_framework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="course_1.basics.Casting" />
+    <configuration name="CollectionAlgorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons._8_collections_framework.maps_and_hash_maps.CollectionAlgorithms" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="course_1.basics.*" />
+          <option name="PATTERN" value="lessons._8_collections_framework.maps_and_hash_maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="course_1.basics.classes.CircleDemo" />
+    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons._8_collections_framework.maps_and_hash_maps.HashMapDemo" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="course_1.basics.classes.*" />
+          <option name="PATTERN" value="lessons._8_collections_framework.maps_and_hash_maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="course_1.basics.enums.EnumsDemo" />
+    <configuration name="LinkedHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons._8_collections_framework.maps_and_hash_maps.LinkedHashMapDemo" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="course_1.basics.enums.*" />
+          <option name="PATTERN" value="lessons._8_collections_framework.maps_and_hash_maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="course_1.basics.lambda.Main" />
+    <configuration name="TreeMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons._8_collections_framework.maps_and_hash_maps.TreeMapDemo" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="course_1.basics.lambda.*" />
+          <option name="PATTERN" value="lessons._8_collections_framework.maps_and_hash_maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Casting" />
-        <item itemvalue="Application.CircleDemo" />
-        <item itemvalue="Application.BookDemo" />
-        <item itemvalue="Application.EnumsDemo" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CollectionAlgorithms" />
+        <item itemvalue="Application.LinkedHashMapDemo" />
+        <item itemvalue="Application.TreeMapDemo" />
+        <item itemvalue="Application.HashMapDemo" />
+        <item itemvalue="Application.ArrayDequeueDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -192,5 +268,16 @@
       <updated>1674368307450</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/course_1/exercises/MadLibs.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
